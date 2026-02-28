@@ -54,11 +54,5 @@ Rigorously verified the RTL design using **ModelSim**.
 
 ---
 
-## 🎥 Demonstration
-[Link to YouTube Demo Video] 
-[cite_start]*(Video detailing the system architecture, PTX translation, and RTL simulation)* [cite: 76, 77]
-
----
-
 ## 👨‍💻 Author
-**[Your Name]** *M.S. Electrical and Computer Engineering* Focus: IC Design / Computer Architecture
+**[Ian Chen]** *M.S. Electrical and Computer Engineering* Focus: IC Design / Computer Architecture
